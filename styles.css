@@ -178,6 +178,7 @@ h1 {
 	    border-bottom: 1px solid #e2e2e2;
 	    border-right-style: none;
 	    text-align: center;
+        padding: 10px;
 	}
 	.main-content {
 		width: 100%;
